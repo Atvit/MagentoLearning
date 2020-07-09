@@ -32,12 +32,12 @@ class UpgradeData implements UpgradeDataInterface
 
             $data = [
                 [
-                    'title' => 'Post 1 Title',
-                    'content' => 'Content of the first post.',
+                    'title' => 'Post 3 Title',
+                    'content' => 'Content of the third post.',
                 ],
                 [
-                    'title' => 'Post 2 Title',
-                    'content' => 'Content of the second post.',
+                    'title' => 'Post 4 Title',
+                    'content' => 'Content of the fouth post.',
                 ],
             ];
 
